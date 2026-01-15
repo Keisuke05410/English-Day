@@ -1,3 +1,3 @@
 # Words List
 
-- Day1: approve
+- Day1: [曖昧性処理] Let me clarify

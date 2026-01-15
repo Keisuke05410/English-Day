@@ -1,3 +1,3 @@
 # Day1 解答
 
-I've reviewed the changes. I approve this PR.
+Let me clarify the scope of this feature before we start the implementation.
