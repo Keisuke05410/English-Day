@@ -22,6 +22,8 @@ Day{N}/
   question.md  - 日本語で書かれた英作文問題
   answer.md    - question.mdの解答（英文）
 words_list.md  - 全Dayのフレーズをまとめたリスト
+questions.md   - 全Dayの問題をまとめたリスト
+answers.md     - 全Dayの解答をまとめたリスト
 ```
 
 ## 各ファイルの形式
@@ -53,6 +55,24 @@ words_list.md  - 全Dayのフレーズをまとめたリスト
 {英文}
 ```
 
+### questions.md
+```markdown
+# Questions
+
+1. {Day1の問題}
+2. {Day2の問題}
+...
+```
+
+### answers.md
+```markdown
+# Answers
+
+1. {Day1の解答}
+2. {Day2の解答}
+...
+```
+
 ## コマンド
 
 ### /word
@@ -60,7 +80,7 @@ words_list.md  - 全Dayのフレーズをまとめたリスト
 - 次のDay番号を自動判定
 - 学習カテゴリから実践的なフレーズを1つ選定
 - word.md、question.md、answer.md を作成
-- words_list.mdに追記
+- words_list.md、questions.md、answers.md に追記
 
 ## words_list.md の更新
 
