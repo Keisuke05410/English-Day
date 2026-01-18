@@ -8,3 +8,7 @@
   - Could you elaborate on how this authentication flow works?
   - Could you elaborate on the trade-offs of this approach?
   - Could you elaborate on why you chose this library?
+
+- 補足: explain と elaborate の違い
+  - explain: 説明する。0から or 誤解の修正
+  - elaborate: 深掘る。前提理解あり。
