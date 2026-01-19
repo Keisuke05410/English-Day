@@ -4,3 +4,4 @@
 2. Don't worry. I'll take care of the CI error.
 3. By using a cache, we can reduce the load on the database. Does that make sense?
 4. Could you elaborate on how this error handling mechanism works?
+5. I see your point, but I think using that library will make the bundle size too large.
