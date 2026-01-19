@@ -17,3 +17,5 @@
 8. words_list.md に新しいフレーズを追記（カテゴリ付き）
 9. questions.md に新しい問題を追記（番号付きで1行）
 10. answers.md に新しい解答を追記（番号付きで1行）
+11. 全ての変更をステージングして commit（メッセージ: "Add Day{N} content: {フレーズ}"）
+12. main ブランチに push

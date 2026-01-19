@@ -76,11 +76,12 @@ answers.md     - 全Dayの解答をまとめたリスト
 ## コマンド
 
 ### /word
-新しいDayディレクトリと全ファイルを生成する。
+新しいDayディレクトリと全ファイルを生成し、GitHubにpushする。
 - 次のDay番号を自動判定
 - 学習カテゴリから実践的なフレーズを1つ選定
 - word.md、question.md、answer.md を作成
 - words_list.md、questions.md、answers.md に追記
+- 変更をcommitしてpush（コミットメッセージ: "Add Day{N} content: {フレーズ}"）
 
 ## words_list.md の更新
 
