@@ -5,3 +5,4 @@
 3. By using a cache, we can reduce the load on the database. Does that make sense?
 4. Could you elaborate on how this error handling mechanism works?
 5. I see your point, but I think using that library will make the bundle size too large.
+6. Let's go with PostgreSQL for the database. It's highly scalable, and our team has experience with it.
