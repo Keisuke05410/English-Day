@@ -7,3 +7,4 @@
 5. I see your point, but I think using that library will make the bundle size too large.
 6. Let's go with PostgreSQL for the database. It's highly scalable, and our team has experience with it.
 7. Just to confirm, we're deploying this API change to production next Monday, right?
+8. What's the rationale behind adopting this library?
