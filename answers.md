@@ -8,3 +8,4 @@
 6. Let's go with PostgreSQL for the database. It's highly scalable, and our team has experience with it.
 7. Just to confirm, we're deploying this API change to production next Monday, right?
 8. What's the rationale behind adopting this library?
+9. What if we compromise by fixing only the most critical parts first, since a full refactoring would take too long?
