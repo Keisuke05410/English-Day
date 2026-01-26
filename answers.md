@@ -9,3 +9,4 @@
 7. Just to confirm, we're deploying this API change to production next Monday, right?
 8. What's the rationale behind adopting this library?
 9. What if we compromise by fixing only the most critical parts first, since a full refactoring would take too long?
+10. The frontend implementation is complete, so I'll hand this over to the backend team for the API integration.
