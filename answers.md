@@ -10,3 +10,4 @@
 8. What's the rationale behind adopting this library?
 9. What if we compromise by fixing only the most critical parts first, since a full refactoring would take too long?
 10. The frontend implementation is complete, so I'll hand this over to the backend team for the API integration.
+11. Before we move on, I want to make sure we're all on the same page about the sprint goal.
